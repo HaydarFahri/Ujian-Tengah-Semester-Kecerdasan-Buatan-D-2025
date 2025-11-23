@@ -1,4 +1,4 @@
-# 🧠 NEXUS OPTIMA: AI Pathfinder & Inference System
+# AI Pathfinder & Inference System
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-FF4B4B)
