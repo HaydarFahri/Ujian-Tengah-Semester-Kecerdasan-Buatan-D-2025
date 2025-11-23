@@ -23,7 +23,7 @@
 **Nexus Optima** adalah aplikasi berbasis web yang mengintegrasikan dua konsep utama dalam Kecerdasan Buatan:
 1.  **Sistem Pakar Fuzzy (Mamdani):** Menentukan tip restoran berdasarkan kualitas makanan dan layanan.
 2.  **Java Pathfinder (Searching):** Simulasi pencarian rute terpendek antar kota di Pulau Jawa menggunakan berbagai algoritma pencarian.
-
+![Screenshot Fuzzy Soal](assets/images/image.png)
 ---
 
 ## ✅ Pemenuhan Syarat Soal (Traceability)
